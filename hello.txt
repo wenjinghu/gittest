@@ -1,1 +1,2 @@
 print("hello world")
+print("不想写作业")
